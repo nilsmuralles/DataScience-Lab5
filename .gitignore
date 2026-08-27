@@ -1,6 +1,3 @@
-# Datos crudos de Kaggle (no versionar el CSV)
-data/*.csv
-
 # Python
 __pycache__/
 *.pyc
